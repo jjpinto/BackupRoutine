@@ -1,0 +1,4 @@
+﻿[
+	{"SourceFolder": "e:\\stacs1", "DestinationFolder": "e:\\temp\\Code Backup\\STACS1", "CopySubFolder": true}, 
+	{"SourceFolder": "e:\\merbos1", "DestinationFolder": "e:\\temp\\Code Backup\\MERBOS1", "CopySubFolder": false}
+]
